@@ -1,3 +1,5 @@
+package com.spring.demo1;
+
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 public class MainApp {
